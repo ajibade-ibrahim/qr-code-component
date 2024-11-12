@@ -56,13 +56,6 @@ body {
   overflow: hidden;
 }
 
-@media only screen and (min-width: 600px) {
-  .container {
-    width: 144rem;
-    height: 96rem;
-  }
-}
-
 .card {
   width: min-content;
   display: flex;
@@ -103,7 +96,7 @@ h1, p {
   font-size: 22px;
   font-weight: 700;
   line-height: 120%;
-  letter-spacing: 0;
+  letter-spacing: 0.2px;
 }
 
 .text-preset-2 {
