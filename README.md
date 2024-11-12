@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 - Mobile-first workflow
 
-## Author: _Ibrahim Ajibade_
+## Author
 
 - [LinkedIn](https://www.linkedin.com/in/ibrahim-kayode-ajibade/)
 - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/ajibade-ibrahim)
