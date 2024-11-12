@@ -56,6 +56,13 @@ body {
   overflow: hidden;
 }
 
+@media only screen and (min-width: 600px) {
+  .container {
+    width: 144rem;
+    height: 96rem;
+  }
+}
+
 .card {
   width: min-content;
   display: flex;
@@ -106,9 +113,11 @@ h1, p {
   letter-spacing: 0.2px;
 }
 
-@media only screen and (min-width: 600px) {
-  .container {
-    width: 144rem;
-    height: 96rem;
-  }
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
